@@ -1,0 +1,23 @@
+
+	Solo factibilidad: Tiempo fuera de rango
+	
+	Poda: Maxima afinidad total por numero de afinidades que faltan por colocar
+	Numero de comensales: 15
+	Tiempo: 4369 milisegundos
+	Nodos visitados: 8074139
+	Maximo acumulado: 393
+	0	2	9	10	8	5	3	12	13	11	4	14	1	6	7
+	
+	Poda: 2 maximas afinidades de cada comensal que se actualizan en cada nodo
+	Numero de comensales: 15
+	Tiempo: 1418136 milisegundos
+	Nodos visitados: 2121235
+	Maximo acumulado: 393
+	0	2	9	10	8	5	3	12	13	11	4	14	1	6	7
+	
+	Poda: N maximas afinidades acumuladas y descontándose
+	Numero de comensales: 15
+	Tiempo: 4694 milisegundos
+	Nodos visitados: 3649412
+	Maximo acumulado: 393
+	0	2	9	10	8	5	3	12	13	11	4	14	1	6	7
